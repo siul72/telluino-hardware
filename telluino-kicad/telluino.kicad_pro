@@ -278,6 +278,9 @@
       "Net-(U1B-VBAT1)": "VBAT1",
       "unconnected-(RS1-Pad2)": "VSW",
       "unconnected-(RVP1-Pad1)": "VBAT1",
+      "unconnected-(U1A-*ZSI-Pad24)": "3.3V",
+      "unconnected-(U1B-AVDD-Pad2)": "3.3VA1",
+      "unconnected-(U1B-DVDD-Pad15)": "3.3V",
       "unconnected-(U1B-VDDHPI-Pad23)": "VDHP1"
     },
     "netclass_patterns": []
