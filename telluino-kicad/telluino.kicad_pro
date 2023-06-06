@@ -420,11 +420,12 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "+5V": "VSW",
+      "/arduino_controller/RUN": "RUN",
+      "/slic/VBAT1": "VBAT1",
+      "3.3V": "VDHPI",
       "3.3VA": "3.3VA",
-      "5V": "VSW",
-      "VBAT1": "VBAT1",
-      "VDHPI": "VDHPI",
-      "unconnected-(JSM1-Pad19)": "RST",
+      "VBAT": "VBAT",
       "unconnected-(Q2-B-Pad1)": "3.3V"
     },
     "netclass_patterns": []
