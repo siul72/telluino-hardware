@@ -20,7 +20,7 @@
     )
     (instances
       (project "telluino"
-        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "1"))
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "2"))
       )
     )
   )
@@ -37,7 +37,7 @@
     )
     (instances
       (project "telluino"
-        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "4"))
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "5"))
       )
     )
   )
@@ -54,7 +54,7 @@
     )
     (instances
       (project "telluino"
-        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "2"))
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "3"))
       )
     )
   )
@@ -71,7 +71,7 @@
     )
     (instances
       (project "telluino"
-        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "3"))
+        (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16" (page "4"))
       )
     )
   )

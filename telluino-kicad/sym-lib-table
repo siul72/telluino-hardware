@@ -7,4 +7,5 @@
   (lib (name "SS1P3L")(type "KiCad")(uri "${KIPRJMOD}/lib/SS1P3L.kicad_sym")(options "")(descr ""))
   (lib (name "MSMF050")(type "KiCad")(uri "${KIPRJMOD}/lib/MF-MSMF050-2.kicad_sym")(options "")(descr ""))
   (lib (name "TXS0108")(type "KiCad")(uri "${KIPRJMOD}/lib/TXS0108EPWRG4.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector1")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector.kicad_sym")(options "")(descr ""))
 )

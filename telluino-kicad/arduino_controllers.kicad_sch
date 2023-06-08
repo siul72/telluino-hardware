@@ -2720,7 +2720,7 @@
   (symbol (lib_id "Device:LED") (at 139.7 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a7f471e-65ab-45af-9bdb-667146a19f1b)
-    (property "Reference" "D5" (at 140.97 115.57 90)
+    (property "Reference" "D2" (at 140.97 115.57 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "RUN Blue" (at 138.43 105.41 0)
@@ -2737,7 +2737,7 @@
     (instances
       (project "telluino"
         (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16/155b2f34-2ecb-4975-a29a-28e28a768e33"
-          (reference "D5") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -2800,7 +2800,7 @@
   (symbol (lib_id "Device:LED") (at 180.34 135.89 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2769fcbd-af76-40f3-a492-030d686f1c85)
-    (property "Reference" "D6" (at 177.8 133.35 90)
+    (property "Reference" "D7" (at 177.8 133.35 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Green Tx" (at 184.15 133.35 0)
@@ -2817,7 +2817,7 @@
     (instances
       (project "telluino"
         (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16/155b2f34-2ecb-4975-a29a-28e28a768e33"
-          (reference "D6") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -2826,7 +2826,7 @@
   (symbol (lib_id "Device:LED") (at 149.86 111.76 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b13b90d-c23e-4426-9a12-d37c026c77bc)
-    (property "Reference" "D2" (at 152.4 114.3 90)
+    (property "Reference" "D4" (at 152.4 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Red Rx" (at 146.05 114.3 0)
@@ -2843,7 +2843,7 @@
     (instances
       (project "telluino"
         (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16/155b2f34-2ecb-4975-a29a-28e28a768e33"
-          (reference "D2") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -2903,7 +2903,7 @@
   (symbol (lib_id "Device:LED") (at 172.72 135.89 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 361db1d4-9c4d-455e-a7fe-bc31cfcdd8ce)
-    (property "Reference" "D4" (at 170.18 133.35 90)
+    (property "Reference" "D6" (at 170.18 133.35 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Red Rx" (at 176.53 133.35 0)
@@ -2920,7 +2920,7 @@
     (instances
       (project "telluino"
         (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16/155b2f34-2ecb-4975-a29a-28e28a768e33"
-          (reference "D4") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -3495,7 +3495,7 @@
   (symbol (lib_id "Device:LED") (at 154.94 111.76 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e418351-f81a-4efd-9a5a-47e1c62eeef9)
-    (property "Reference" "D3" (at 157.48 114.3 90)
+    (property "Reference" "D5" (at 157.48 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Green Tx" (at 158.75 114.3 0)
@@ -3512,7 +3512,7 @@
     (instances
       (project "telluino"
         (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16/155b2f34-2ecb-4975-a29a-28e28a768e33"
-          (reference "D3") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -3621,7 +3621,7 @@
   (symbol (lib_id "Device:LED") (at 144.78 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9bf3b695-3442-4588-bd90-64363aab34f2)
-    (property "Reference" "D7" (at 146.05 115.57 90)
+    (property "Reference" "D3" (at 146.05 115.57 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "OP Orange" (at 143.51 105.41 0)
@@ -3638,7 +3638,7 @@
     (instances
       (project "telluino"
         (path "/3bd12265-4173-4d6b-91eb-5b474bc7bb16/155b2f34-2ecb-4975-a29a-28e28a768e33"
-          (reference "D7") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
