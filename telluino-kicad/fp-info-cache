@@ -1,4 +1,4 @@
-21695790784244838
+21699163182499281
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90216,6 +90216,13 @@ FUSM4632X85
 2
 2
 my_lib
+QFN50P700X700X90-49N
+
+
+0
+49
+49
+my_lib
 SMA_DIO
 
 ES1C-13-F 
@@ -90271,6 +90278,13 @@ ZXTP2012Z
 0
 3
 3
+my_lib
+ptc-4-mf-sd
+
+
+0
+4
+2
 teluino
 SOT-89-3_4P5X2P6_DIO
 
